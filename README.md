@@ -11,5 +11,5 @@
 <img src=".readme_documents/4.jpg" width=200 alt="4st sample"/>
 <img src=".readme_documents/5.jpg" width=200 alt="5st sample"/>
 </p>
-readme_documents\1.jpg
+
 <p align="center">
